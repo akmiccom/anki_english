@@ -1,0 +1,102 @@
+#separator:tab
+#html:true
+1. At home (1)
+2. At home (2)
+3. My Favorite Photographs (1)
+4. Location
+5. Location (2)
+6. Color (1)
+7. Color (2)
+8. No questions
+9. Short Answer
+10. Telephone call (2)
+11. What's A Grant?
+12. I'm Busy On Friday
+13. Bless You
+14. I Don't Feel Well
+15. Can You Help Me?
+16. Taking a Cab
+17. I Hate to Get Up
+18. A Hot Day
+19. Phone Out of Order (1)
+20. Phone Out of Order (2)
+21. Getting A Visa
+22. Employing a new member
+23. A Date (1)
+24. What did you do yesterday?
+25. Travelling by Air
+26. At the Customs
+27. A New Baby
+28. Is English Difficult?
+29. Washing His Car
+30. At the Restaurant
+31. When's the Baby Due?
+32. Bus Stop
+33. Gardening
+34. A Lazy Boy
+35. Can I Drive There?
+36. A New Dress
+37. A picnic
+38. I'm Going Skiing
+39. Traffic Rules (1)
+40. Housework
+41. Oral Exams
+42. Would You Call me?
+43. Can I Let You Know?
+44. A Less Formal Call
+45. A Cup of Coffee
+46. How About a Drink?
+47. I Have a Sore Throat
+48. On Sale
+49. Not a Cloud in the Sky
+50. Cold and Windy
+51. It's Beginning to Snow
+52. A House at the Shore
+53. A Soccer Game
+54. Not So Young
+55. Is She Single?
+56. To Buy a Birthday Present
+57. Telephone
+58. A Light Eater
+59. A Nice Flat (1)
+60. A Nice Flat (2)
+61. Afraid of Flying
+62. A Plane Reservation
+63. Getting Together
+64. How's Your New Job Going?
+65. We Eat a Lot
+66. I'll Take You
+67. We Must be Out of Them
+68. Doctor's Appointment
+69. Traffic Rules (2)
+70. Eating out
+71. To Buy a Bus Ticket
+72. On the Phone
+73. Operating Room
+74. A Car Loan
+75. A Cashier
+76. Settling Down
+77. Will You Get Some Bread For Me?
+78. Buying a Present - In a Jeweller's shop
+79. Buying a Present - In a Toy Shop
+80. Making a Reservation
+81. Ready to Go
+82. An Interesting Movie
+83. A New Job
+84. A Date (2)
+85. Smoking
+86. A Death
+87. A Birth
+88. A Coincidence
+89. How have you been?
+90. Applying for a job
+91. Giving Directions
+92. Talking about pets
+93. Where is the post office
+94. Meeting an old friend
+95. Using public transportation
+96. Cafeteria menu
+97. Weekend plans
+98. Visiting a national park
+99. Bad room service
+100. Photography class

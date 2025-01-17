@@ -1,0 +1,32 @@
+#separator:tab
+#html:true
+お名前は何ですか	" What&#x27;s your name?<br>May I have your name?"
+出身地はどこですか	 Where are you from?<br>What country are you from？
+どこに住んでいますか？	Where do you live?
+元気ですか？	How are you?
+あなたはどうですか？	How about you?
+はじめまして	Nice to meet you.
+何をしていますか？	What are you doing?
+英語を話しますか？	Do you speak English?
+なぜ英語の勉強をしていますか？	Why are you learning English?
+なぜならたくさんの人と話をしたいからです。	Because I want to talk with a lot of people.
+どのくらい英語を勉強していますか？	How long have you been learning English?
+趣味は何ですか？	What do you do in your free time?
+日本に行ったことがありますか？	Have you been to Japan?
+外出してもいいですか？	Can I go out?
+いつそれをしましたか？	When did you do it?
+旅行は好きですか？	Do you like traveling? (Are you into traveling?)
+この言葉はどういう意味ですか？	What do you mean by this word?
+それができますか？	Can you do that?
+これはありますか？	Do you have this?
+もう一度言ってください	 Please say it again.
+これはいくらですか?	How much is this?<br>How much does it cost?
+あそこに行きたいです。	 I want to go there.
+駅まではどうやって行きますか?	 How do I get the station?
+どの道ですか?	 Which way is it?
+あの方はどなたですか?	 Who is that?
+何時ですか?	 What time is it?
+おすすめの料理は何ですか?	 What food do you recommend?
+これをください。	" I&#x27;ll have this.<br>I&#x27;ll take this."
+お会計をお願いします。	 Check, Please.
+ホテルを案内していただけますか?	 Can you show me around the hotel?<br>Could you give me a tour of the hotel?

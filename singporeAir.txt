@@ -1,0 +1,1232 @@
+Time (GMT+8)	Flight Information	Terminal	Arrival Information	Status
+00:05
+00:15
+
+SQ266 Singapore Airlines
+Brisbane (BNE)
+Codeshare
+AI8117LX9211VA5506
+T3	Belt 43	Last Bag on Belt
+00:15
+00:17
+
+SQ208 Singapore Airlines
+Melbourne (MEL)
+Codeshare
+A31220AI8201ET1302LX9023SK8066TK9303VA5508
+T3	Belt 42	Last Bag on Belt
+00:20
+23:53
+(-1d)
+
+SQ242 Singapore Airlines
+Sydney (SYD)
+Codeshare
+A31214AI8273ET1328LH9769LX9039NH5369SK8080TK9327VA5540
+T3	Belt 41	Last Bag on Belt
+00:20
+23:51
+(-1d)
+
+SQ947 Singapore Airlines
+Bali-Denpasar (DPS)
+Codeshare
+AI8149CA5259GA9075SK8048
+T2	Belt 39	Last Bag on Belt
+00:40
+00:28
+
+SQ719 Singapore Airlines
+Bangkok (Suvarnabhumi) (BKK)
+Codeshare
+LX9045NZ3455PG4711VA5725
+T3	Belt 46	Last Bag on Belt
+01:20
+01:46
+
+SQ11 Singapore Airlines
+Los Angeles (LAX)
+via Tokyo (Narita)
+Codeshare
+AC5882AI8217ET1343NH6255
+T2	Belt 31	Last Bag on Belt
+04:25
+05:04
+
+SQ441 Singapore Airlines
+Kathmandu (KTM)
+Codeshare
+GA9009LX9201
+T2	Belt 37	Last Bag on Belt
+04:55
+04:51
+
+SQ605 Singapore Airlines
+Seoul (ICN)
+Codeshare
+AC5880AI8169OZ6783VA5675
+T2	Belt 32	Last Bag on Belt
+05:05
+04:53
+
+SQ246 Singapore Airlines
+Brisbane (BNE)
+Codeshare
+AI8113LH9783LX9093SK8026TK9329VA5542
+T2	Belt 38	Last Bag on Belt
+05:10
+05:01
+
+SQ623 Singapore Airlines
+Osaka (KIX)
+Codeshare
+AI8179FJ5952NH6261
+T1	Belt 18	Last Bag on Belt
+05:15
+04:41
+
+SQ218 Singapore Airlines
+Melbourne (MEL)
+Codeshare
+AF3917AI8203LH9777LX9057NH5485SK8068TK9311VA5518
+T3	Belt 43	Last Bag on Belt
+05:15
+05:53
+
+SQ635 Singapore Airlines
+Tokyo (Haneda) (HND)
+Codeshare
+AI8165FJ5954NH6251
+T3	Belt 43	Last Bag on Belt
+05:35
+06:20
+
+SQ365 Singapore Airlines
+Rome (FCO)
+Codeshare
+A31218MH5819NZ3365PR3837TP8431VA5583
+T3	Belt 41	Last Bag on Belt
+05:40
+06:04
+
+SQ345 Singapore Airlines
+Zurich (ZRH)
+Codeshare
+LX9000MH5805NZ3345PR3849VA5579
+T3	Belt 47	Last Bag on Belt
+05:45
+04:45
+
+SQ33 Singapore Airlines
+San Francisco (SFO)
+T3	Belt 42	Last Bag on Belt
+05:55
+05:51
+
+SQ323 Singapore Airlines
+Amsterdam (AMS)
+Codeshare
+NZ3323VA5569
+T2	Belt 31	Last Bag on Belt
+05:55
+06:06
+
+SQ529 Singapore Airlines
+Chennai (MAA)
+Codeshare
+AC5846AI8277NH6283NZ3211
+T3	Belt 42	Last Bag on Belt
+05:55
+05:27
+
+SQ825 Singapore Airlines
+Shanghai (PVG)
+Codeshare
+CA5268VA5755
+T3	Belt 41	Last Bag on Belt
+06:00
+05:47
+
+SQ23 Singapore Airlines
+New York (John F Kennedy) (JFK)
+T2	Belt 30	Last Bag on Belt
+06:00
+06:45
+
+SQ305 Singapore Airlines
+London (Heathrow) (LHR)
+Codeshare
+FJ5956MH5759NZ3305VA5559VS7974
+T2	Belt 30	Last Bag on Belt
+06:00
+05:34
+
+SQ403 Singapore Airlines
+New Delhi (DEL)
+Codeshare
+GA9177NH6287NZ3383
+T3	Belt 46	Last Bag on Belt
+06:00
+05:54
+
+SQ447 Singapore Airlines
+Dhaka (DAC)
+Codeshare
+AC5840
+T2	Belt 39	Last Bag on Belt
+06:05
+06:41
+
+SQ523 Singapore Airlines
+Hyderabad (HYD)
+Codeshare
+AC5848NZ3253
+T2	Belt 37	Last Bag on Belt
+06:10
+06:30
+
+SQ405 Singapore Airlines
+New Delhi (DEL)
+T1	Belt 10	Last Bag on Belt
+06:10
+06:36
+
+SQ479 Singapore Airlines
+Cape Town (CPT)
+via Johannesburg
+Codeshare
+MH5763NH6275NZ3279OZ6791SA7232VA5629
+T3	Belt 45	Last Bag on Belt
+06:10
+06:08
+
+SQ511 Singapore Airlines
+Bengaluru (BLR)
+Codeshare
+AC5842GA9195NH6281NZ3207
+T3	Belt 48	Last Bag on Belt
+06:10
+06:24
+
+SQ535 Singapore Airlines
+Kochi (COK)
+Codeshare
+AC5890NZ3255
+T1	Belt 16	Last Bag on Belt
+06:15
+06:13
+
+SQ216 Singapore Airlines
+Perth (PER)
+Codeshare
+AC5853AI8235LH7209LX9037NH5371SK8074TK9309UA7687VA5516
+T1	Belt 11	Last Bag on Belt
+06:15
+06:12
+
+SQ309 Singapore Airlines
+London (Gatwick) (LGW)
+Codeshare
+NZ3309VA5561
+T2	Belt 38	Last Bag on Belt
+06:15
+07:14
+
+SQ335 Singapore Airlines
+Paris (CDG)
+Codeshare
+PR3833VA5575
+T3	Belt 41	Last Bag on Belt
+06:15
+06:28
+
+SQ517 Singapore Airlines
+Kolkata (CCU)
+Codeshare
+AC5850GA9007NH6291NZ3209
+T3	Belt 43	Last Bag on Belt
+06:20
+06:32
+
+SQ857 Singapore Airlines
+Shenzhen (SZX)
+Codeshare
+ZH3566
+T2	Belt 32	Last Bag on Belt
+06:30
+06:26
+
+SQ282 Singapore Airlines
+Auckland (AKL)
+Codeshare
+AI8105LH9753NZ3282
+T2	Belt 33	Last Bag on Belt
+06:40
+06:22
+
+SQ853 Singapore Airlines
+Guangzhou (CAN)
+Codeshare
+ET1347
+T3	Belt 44	Last Bag on Belt
+06:45
+06:34
+
+SQ801 Singapore Airlines
+Beijing (Capital) (PEK)
+Codeshare
+CA5285VA5781
+T3	Belt 46	Last Bag on Belt
+06:50
+06:55
+
+SQ25 Singapore Airlines
+New York (John F Kennedy) (JFK)
+via Frankfurt
+Codeshare
+A31202AC5873FJ5960LH9762NZ3335OU5808PR3839TP8419VA5405
+T3	Belt 44	Last Bag on Belt
+06:55
+06:53
+
+SQ303 Singapore Airlines
+Brussels (BRU)
+Codeshare
+LH7246LX9214MH5822
+T3	Belt 42	Last Bag on Belt
+07:00
+06:59
+
+SQ327 Singapore Airlines
+Munich (MUC)
+Codeshare
+A31210LH9790NZ3327OU5812VA5573
+T3	Belt 48	Last Bag on Belt
+07:05
+06:48
+
+SQ505 Singapore Airlines
+Ahmedabad (AMD)
+Codeshare
+NH6293
+T2	Belt 39	Last Bag on Belt
+07:15
+07:20
+
+SQ437 Singapore Airlines
+Male (MLE)
+Codeshare
+CA5289GA8977UA7695
+T2	Belt 31	Last Bag on Belt
+07:15
+06:51
+
+SQ469 Singapore Airlines
+Colombo (CMB)
+Codeshare
+AC5872NZ3445VA5625
+T1	Belt 18	Last Bag on Belt
+07:15
+07:18
+
+SQ495 Singapore Airlines
+Dubai (DXB)
+Codeshare
+ET1300NZ3275
+T3	Belt 45	Last Bag on Belt
+07:30
+07:40
+
+SQ351 Singapore Airlines
+Copenhagen (CPH)
+Codeshare
+MH5857NZ3351OU5806PR3835SK8001VA5581
+T2	Belt 30	Last Bag on Belt
+07:30
+07:06
+
+SQ423 Singapore Airlines
+Mumbai (BOM)
+Codeshare
+GA8973NH6277NZ3203
+T3	Belt 46	Last Bag on Belt
+07:35
+08:08
+
+SQ355 Singapore Airlines
+Milan (MXP)
+Codeshare
+A31206NZ3367PR3845TP8435VA5585
+T1	Belt 13	Last Bag on Belt
+07:45
+07:50
+
+SQ317 Singapore Airlines
+London (Heathrow) (LHR)
+Codeshare
+AC5875FJ5958MH5719NZ3317SK8037TP8401VA5565VS7972
+T3	Belt 43	Last Bag on Belt
+07:55
+06:58
+
+SQ37 Singapore Airlines
+Los Angeles (LAX)
+T3	Belt 47	Last Bag on Belt
+08:00
+07:32
+
+SQ813 Singapore Airlines
+Chongqing (CKG)
+Codeshare
+CA5256MH5828
+T2	Belt 36	Last Bag on Belt
+08:05
+07:48
+
+SQ951 Singapore Airlines
+Jakarta (CGK)
+Codeshare
+AI8123GA8951NH6273SK8044VA5819
+T2	Belt 32	Last Bag on Belt
+08:15
+08:18
+
+SQ537 Singapore Airlines
+Kochi (COK)
+Codeshare
+AC5894NH6299NZ3257
+T2	Belt 37	Last Bag on Belt
+08:35
+08:27
+
+SQ425 Singapore Airlines
+Mumbai (BOM)
+Codeshare
+NZ3205
+T2	Belt 36	Last Bag on Belt
+10:00
+09:46
+
+SQ949 Singapore Airlines
+Bali-Denpasar (DPS)
+Codeshare
+AI8151CA5257GA9743
+T3	Belt 44	Last Bag on Belt
+10:05
+10:04
+
+SQ103 Singapore Airlines
+Kuala Lumpur (KUL)
+Codeshare
+AI8185MH5723NZ3405SK8058VA5423
+T2	Belt 38	Last Bag on Belt
+11:00
+10:38
+
+SQ915 Singapore Airlines
+Manila (MNL)
+Codeshare
+NZ3439PR3851
+T2	Belt 33	Last Bag on Belt
+11:10
+11:05
+
+SQ953 Singapore Airlines
+Jakarta (CGK)
+Codeshare
+AI8125GA8953SK8046VA5821
+T3	Belt 42	Last Bag on Belt
+11:20
+11:10
+
+SQ991 Singapore Airlines
+Medan (KNO)
+Codeshare
+AI8181GA9909LH7237LX9005
+T2	Belt 36	Last Bag on Belt
+11:35
+11:51
+
+SQ105 Singapore Airlines
+Kuala Lumpur (KUL)
+Codeshare
+AI8187MH5855NZ3431SK8064VA5425
+T3	Belt 48	Landed 11:51
+11:35
+11:19
+
+SQ131 Singapore Airlines
+Penang (PEN)
+Codeshare
+AI8221MH5739NZ3231VA5451
+T2	Belt 33	Last Bag on Belt
+11:35
+11:30
+
+SQ248 Singapore Airlines
+Melbourne (MEL)
+Codeshare
+AI8209LH7229LX9203VA5548
+T3	Belt 45	First Bag on Belt
+11:35
+11:36
+
+SQ723 Singapore Airlines
+Phuket (HKT)
+Codeshare
+NZ3487VA5733
+T2	Belt 38	Landed 11:36
+11:50
+11:28
+
+SQ262 Singapore Airlines
+Sydney (SYD)
+Codeshare
+AI8265LX9217VA5502
+T3	Belt 48	Last Bag on Belt
+11:55
+11:47
+
+SQ224 Singapore Airlines
+Perth (PER)
+Codeshare
+AI8237LX9013OZ6798SK8076TK9317VA5524
+T2	Belt 36	Landed 11:47
+12:15
+12:26
+
+SQ107 Singapore Airlines
+Kuala Lumpur (KUL)
+Codeshare
+AI8189MH5725NZ3407VA5427
+T2	Belt 30	Confirmed
+12:15
+11:55
+
+SQ955 Singapore Airlines
+Jakarta (CGK)
+Codeshare
+GA8955
+T2	Belt 37	Landed 11:55
+12:45
+12:42
+
+SQ153 Singapore Airlines
+Phnom Penh (PNH)
+Codeshare
+AI8241NZ3479VA5473
+T2	Belt 39	Confirmed
+13:05
+12:58
+
+SQ705 Singapore Airlines
+Bangkok (Suvarnabhumi) (BKK)
+Codeshare
+NZ3447PG4701VA5715
+T3	Belt 44	Confirmed
+13:05	
+
+SQ725 Singapore Airlines
+Phuket (HKT)
+Codeshare
+NZ3489PG4723VA5729
+T2	Belt 36	On Schedule
+13:05
+13:00
+
+SQ899 Singapore Airlines
+Hong Kong (HKG)
+Codeshare
+AC5885VA5779
+T2	Belt 32	Confirmed
+13:05
+13:15
+
+SQ935 Singapore Airlines
+Bali-Denpasar (DPS)
+Codeshare
+AI8141GA9741
+T1	Belt 18	Confirmed
+13:35
+13:38
+
+SQ923 Singapore Airlines
+Surabaya (SUB)
+Codeshare
+AI8259GA9905UA7673
+T3	Belt 45	Confirmed
+13:40	
+
+SQ133 Singapore Airlines
+Penang (PEN)
+Codeshare
+AI8223MH5741NZ3421UA7711VA5453
+T2	Belt 36	On Schedule
+14:00	
+
+SQ957 Singapore Airlines
+Jakarta (CGK)
+Codeshare
+AI8127GA8957VA5825
+T2		On Schedule
+14:05	
+
+SQ727 Singapore Airlines
+Phuket (HKT)
+Codeshare
+NZ3477PG4715VA5731
+T2		On Schedule
+14:10
+14:06
+
+SQ827 Singapore Airlines
+Shanghai (PVG)
+Codeshare
+CA5288VA5757
+T3		Confirmed
+14:15	
+
+SQ163 Singapore Airlines
+Siem Reap (SAI)
+Codeshare
+AI8249NZ3483UA7691VA5481
+T2		On Schedule
+14:25
+14:27
+
+SQ607 Singapore Airlines
+Seoul (ICN)
+Codeshare
+AI8171OZ6781VA5677
+T2		Confirmed
+14:40
+14:38
+
+SQ278 Singapore Airlines
+Adelaide (ADL)
+Codeshare
+AI8103ET1308LH9771LX9017NH5375PG4736SK8030TK9333VA5554
+T3		Confirmed
+14:55	
+
+SQ937 Singapore Airlines
+Bali-Denpasar (DPS)
+Codeshare
+AI8143GA9745
+T2		On Schedule
+15:00	
+
+SQ761 Singapore Airlines
+Yangon (RGN)
+Codeshare
+NH6297
+T2		On Schedule
+15:10
+15:06
+
+SQ256 Singapore Airlines
+Brisbane (BNE)
+Codeshare
+AI8115LX9097TK9323VA5550
+T1		Confirmed
+15:15
+14:53
+
+SQ212 Singapore Airlines
+Sydney (SYD)
+Codeshare
+AI8267LX9089PG4728TK9305VA5512
+T3		Confirmed
+15:15
+16:15
+
+SQ238 Singapore Airlines
+Melbourne (MEL)
+Codeshare
+AI8207LH9755LX9055TK9325VA5538
+T2		Confirmed
+15:15	
+
+SQ655 Singapore Airlines
+Fukuoka (FUK)
+Codeshare
+AI8155NH6271
+T1		On Schedule
+15:20	
+
+SQ177 Singapore Airlines
+Ho Chi Minh City (SGN)
+Codeshare
+AI8253NZ3457VA5489
+T3		On Schedule
+15:25
+15:36
+
+SQ631 Singapore Airlines
+Tokyo (Haneda) (HND)
+Codeshare
+AI8161FJ5932NH6259
+T2		Confirmed
+15:30
+15:12
+
+SQ805 Singapore Airlines
+Beijing (Capital) (PEK)
+Codeshare
+CA5281VA5785
+T2		Confirmed
+15:35	
+
+SQ707 Singapore Airlines
+Bangkok (Suvarnabhumi) (BKK)
+Codeshare
+NZ3449PG4703VA5717
+T2		On Schedule
+15:45	
+
+SQ939 Singapore Airlines
+Bali-Denpasar (DPS)
+Codeshare
+AI8145CA5275GA9071LH9768OZ6729UA7701
+T3		On Schedule
+15:50	
+
+SQ171 Singapore Airlines
+Da Nang (DAD)
+Codeshare
+AI8137NZ3467VA5485
+T2		On Schedule
+16:05
+16:12
+
+SQ619 Singapore Airlines
+Osaka (KIX)
+Codeshare
+AI8175FJ5930NH6263
+T2		Confirmed
+16:15
+16:46
+
+SQ671 Singapore Airlines
+Nagoya (NGO)
+Codeshare
+AI8215NH6269
+T3		Confirmed
+16:30	
+
+SQ875 Singapore Airlines
+Hong Kong (HKG)
+Codeshare
+VA5765
+T2		On Schedule
+16:40
+16:31
+
+SQ637 Singapore Airlines
+Tokyo (Narita) (NRT)
+Codeshare
+AI8219FJ5928NH6253
+T2		Confirmed
+16:55	
+
+SQ155 Singapore Airlines
+Phnom Penh (PNH)
+Codeshare
+AI8243NH6289NZ3481VA5475
+T3		On Schedule
+16:55	
+
+SQ525 Singapore Airlines
+Chennai (MAA)
+Codeshare
+NZ3215
+T2		On Schedule
+16:55	
+
+SQ959 Singapore Airlines
+Jakarta (CGK)
+Codeshare
+AI8129GA8959SK8034UA7679VA5827
+T3		On Schedule
+17:00
+17:17
+
+SQ325 Singapore Airlines
+Frankfurt (FRA)
+Codeshare
+A31204FJ5906LH9764NZ3325OU5810PR3841TP8417VA5571
+T3		Confirmed
+17:15	
+
+SQ191 Singapore Airlines
+Hanoi (HAN)
+Codeshare
+AI8157ET1335LH7205NZ3459TK9341VA5491
+T3		On Schedule
+17:15
+17:42
+
+SQ21 Singapore Airlines
+New York (Newark) (EWR)
+T3		Confirmed
+17:30
+17:45
+
+SQ319 Singapore Airlines
+London (Heathrow) (LHR)
+Codeshare
+AV6552FJ5950GA8971MH5761NZ3319OU5804SK8039TP8403VA5563VS7970
+T3		Confirmed
+17:35
+17:16
+
+SQ232 Singapore Airlines
+Sydney (SYD)
+Codeshare
+AI8271LX9091NH5367PG4730SK8078TK9313VA5532
+T3		Confirmed
+17:40	
+
+SQ27 Singapore Airlines
+Seattle (SEA)
+T3		On Schedule
+17:40	
+
+SQ298 Singapore Airlines
+Christchurch (CHC)
+Codeshare
+ET1320LH9787LX9033NZ3298TK9337
+T3		Confirmed
+17:50	
+
+SQ851 Singapore Airlines
+Guangzhou (CAN)
+Codeshare
+ET1333VA5751
+T3		On Schedule
+17:55	
+
+SQ331 Singapore Airlines
+Paris (CDG)
+Codeshare
+PR3831VA5577
+On Schedule
+18:00	
+
+SQ147 Singapore Airlines
+Brunei (BWN)
+Codeshare
+AI8119LH7219LX9205NZ3401TK9339UA7707
+T1		On Schedule
+18:00	
+
+SQ401 Singapore Airlines
+New Delhi (DEL)
+Codeshare
+GA9465NH6279NZ3381
+T2		On Schedule
+18:00	
+
+SQ731 Singapore Airlines
+Phuket (HKT)
+Codeshare
+NZ3491PG4725VA5739
+T3		On Schedule
+18:00	
+
+SQ917 Singapore Airlines
+Manila (MNL)
+Codeshare
+NZ3437PR3853
+T3		On Schedule
+18:10	
+
+SQ883 Singapore Airlines
+Hong Kong (HKG)
+Codeshare
+VA5773
+T2		On Schedule
+18:20	
+
+SQ115 Singapore Airlines
+Kuala Lumpur (KUL)
+Codeshare
+AF7246AI8193LX9049MH5735NZ3415OZ6735SK8050UA7669VA5435
+T2		On Schedule
+18:30	
+
+SQ519 Singapore Airlines
+Hyderabad (HYD)
+Codeshare
+NH5365NZ3259
+T2		On Schedule
+18:45	
+
+SQ869 Singapore Airlines
+Xiamen (XMN)
+T3		On Schedule
+18:55	
+
+SQ877 Singapore Airlines
+Taipei (TPE)
+Codeshare
+BR2201
+T1		On Schedule
+19:00
+18:41
+
+SQ321 Singapore Airlines
+London (Heathrow) (LHR)
+Codeshare
+AV6550FJ5902MH5765NZ3321SK8041TP8405VA5567VS7968
+T3		Confirmed
+19:05	
+
+SQ31 Singapore Airlines
+San Francisco (SFO)
+On Schedule
+19:05	
+
+SQ509 Singapore Airlines
+Bengaluru (BLR)
+Codeshare
+AI8275GA9193NZ3213
+On Schedule
+19:10	
+
+SQ226 Singapore Airlines
+Perth (PER)
+Codeshare
+AI8239ET1314LX9027TK9307VA5526
+On Schedule
+19:10	
+
+SQ252 Singapore Airlines
+Darwin (DRW)
+Codeshare
+AF7236AI8153LH7241LX9015NH5483VA5546
+On Schedule
+19:15	
+
+SQ709 Singapore Airlines
+Bangkok (Suvarnabhumi) (BKK)
+Codeshare
+ET1306LX9059NZ3451PG4705SK8020VA5719
+On Schedule
+19:30	
+
+SQ183 Singapore Airlines
+Ho Chi Minh City (SGN)
+Codeshare
+AI8255LH7221NZ3463VA5493
+On Schedule
+19:40	
+
+SQ831 Singapore Airlines
+Shanghai (PVG)
+Codeshare
+CA5300ET1348VA5749
+On Schedule
+19:40	
+
+SQ901 Singapore Airlines
+Cebu (CEB)
+Codeshare
+AC5845LH7233NZ3397
+On Schedule
+19:45	
+
+SQ121 Singapore Airlines
+Kuala Lumpur (KUL)
+Codeshare
+AF7249AI8195LX9085MH5843NZ3433SK8062UA7670VA5441
+On Schedule
+19:45	
+
+SQ961 Singapore Airlines
+Jakarta (CGK)
+Codeshare
+GA8961
+On Schedule
+19:50	
+
+SQ421 Singapore Airlines
+Mumbai (BOM)
+Codeshare
+NH6285NZ3201
+On Schedule
+19:50	
+
+SQ893 Singapore Airlines
+Hong Kong (HKG)
+Codeshare
+VA5783
+On Schedule
+19:55	
+
+SQ927 Singapore Airlines
+Surabaya (SUB)
+Codeshare
+AI8261UA7675
+On Schedule
+20:05	
+
+SQ165 Singapore Airlines
+Siem Reap (SAI)
+Codeshare
+AF7237AI8251LH7215LX9081NZ3485VA5483
+On Schedule
+20:20	
+
+SQ236 Singapore Airlines
+Brisbane (BNE)
+Codeshare
+AI8111ET1310LH9773LX9019NH5377SK8008TK9331VA5536
+On Schedule
+20:30	
+
+SQ173 Singapore Airlines
+Da Nang (DAD)
+Codeshare
+AI8139LH7203LX9007NZ3469VA5487
+On Schedule
+20:45	
+
+SQ431 Singapore Airlines
+Male (MLE)
+Codeshare
+CA5297GA8975UA7697
+On Schedule
+20:50	
+
+SQ919 Singapore Airlines
+Manila (MNL)
+Codeshare
+NZ3429PR3855
+On Schedule
+20:55	
+
+SQ286 Singapore Airlines
+Auckland (AKL)
+Codeshare
+AI8107ET1318LH9767LX9031NZ3286OZ6800SK8006TK9335
+On Schedule
+20:55	
+
+SQ963 Singapore Airlines
+Jakarta (CGK)
+Codeshare
+AI8131GA8963OZ6795SK8028VA5835
+On Schedule
+21:00	
+
+SQ735 Singapore Airlines
+Phuket (HKT)
+Codeshare
+AF7245LH7207LX9095NZ3493PG4719VA5735
+On Schedule
+21:20	
+
+SQ222 Singapore Airlines
+Sydney (SYD)
+Codeshare
+A31212AF7234AI8269ET1316LH9781LX9029SK8010TK9321VA5522
+On Schedule
+21:20	
+
+SQ228 Singapore Airlines
+Melbourne (MEL)
+Codeshare
+A31216AF7231AI8205ET1312LH9775LX9025NH5487SK8012TK9319VA5528
+On Schedule
+21:35	
+
+SQ125 Singapore Airlines
+Kuala Lumpur (KUL)
+Codeshare
+AC5864AF7235AI8197ET1337LH7227LX9065MH5845NZ3435SK8022UA7699VA5445
+On Schedule
+21:35	
+
+SQ711 Singapore Airlines
+Bangkok (Suvarnabhumi) (BKK)
+Codeshare
+AC5858LX9061NZ3453PG4707SK8004VA5721
+On Schedule
+21:55	
+
+SQ157 Singapore Airlines
+Phnom Penh (PNH)
+Codeshare
+AC5869AI8245LH9757LX9079NZ3443VA5477
+On Schedule
+21:55	
+
+SQ929 Singapore Airlines
+Surabaya (SUB)
+Codeshare
+AI8263GA9907LH7235LX9245UA7713
+On Schedule
+21:55	
+
+SQ965 Singapore Airlines
+Jakarta (CGK)
+Codeshare
+AI8133GA8965LH9795LX9069SK8032VA5833
+On Schedule
+22:05	
+
+SQ833 Singapore Airlines
+Shanghai (PVG)
+Codeshare
+CA5266ET1326VA5761
+On Schedule
+22:20	
+
+SQ601 Singapore Airlines
+Seoul (ICN)
+Codeshare
+AI8167OZ6789VA5671
+On Schedule
+22:20	
+
+SQ879 Singapore Airlines
+Taipei (TPE)
+Codeshare
+BR2203
+On Schedule
+22:25	
+
+SQ288 Singapore Airlines
+Auckland (AKL)
+Codeshare
+AI8109LH7251LX9219NZ3288
+On Schedule
+22:40	
+
+SQ141 Singapore Airlines
+Penang (PEN)
+Codeshare
+AC5866AI8229LH7225LX9077MH5747NZ3423VA5461
+On Schedule
+22:40	
+
+SQ214 Singapore Airlines
+Perth (PER)
+Codeshare
+AC5855AI8233ET1349LH9785LX9041SK8016TK9315UA7693VA5514
+On Schedule
+22:45	
+
+SQ921 Singapore Airlines
+Manila (MNL)
+Codeshare
+LH7223LX9073NZ3441PR3857
+On Schedule
+22:45	
+
+SQ995 Singapore Airlines
+Medan (KNO)
+Codeshare
+AI8183GA9911LH7239LX9009
+On Schedule
+22:50	
+
+SQ895 Singapore Airlines
+Hong Kong (HKG)
+Codeshare
+AC5878ET1322VA5775
+On Schedule
+22:55	
+
+SQ127 Singapore Airlines
+Kuala Lumpur (KUL)
+Codeshare
+AI8199LH7247MH5733NZ3409VA5447
+On Schedule
+22:55	
+
+SQ185 Singapore Airlines
+Ho Chi Minh City (SGN)
+Codeshare
+AC5863AI8257ET1330LH7211LX9083NZ3461VA5495
+On Schedule
+22:55	
+
+SQ204 Singapore Airlines
+Cairns (CNS)
+Codeshare
+AI8135LH7243LX9021NH5379VA5504
+On Schedule
+22:55	
+
+SQ276 Singapore Airlines
+Adelaide (ADL)
+Codeshare
+AI8101LH7217LX9213VA5552
+On Schedule
+22:55	
+
+SQ945 Singapore Airlines
+Bali-Denpasar (DPS)
+Codeshare
+AI8147CA5261GA9073LH9793LX9011SK8014UA7703
+On Schedule
+23:05	
+
+SQ193 Singapore Airlines
+Hanoi (HAN)
+Codeshare
+AC5892AI8159LX9087NZ3217VA5497
+On Schedule
+23:10	
+
+SQ739 Singapore Airlines
+Phuket (HKT)
+Codeshare
+AC5860NZ3495PG4721VA5737
+On Schedule
+23:10	
+
+SQ807 Singapore Airlines
+Beijing (Capital) (PEK)
+Codeshare
+CA5283ET1339VA5747
+On Schedule
+23:20	
+
+SQ633 Singapore Airlines
+Tokyo (Haneda) (HND)
+Codeshare
+AI8163ET1341FJ5964NH6257
+On Schedule
+23:30	
+
+SQ713 Singapore Airlines
+Bangkok (Suvarnabhumi) (BKK)
+Codeshare
+AC5856LX9067NZ3465PG4709SK8024VA5723
+On Schedule
+23:30	
+
+SQ847 Singapore Airlines
+Chengdu (TFU)
+Codeshare
+CA5293
+On Schedule
+23:55
+00:11
+(+1d)
+
+SQ897 Singapore Airlines
+Hong Kong (HKG)
+Codeshare
+AC5884ET1324VA5777
+T1	Belt 14	Last Bag on Belt
+23:55	
+
+SQ897 Singapore Airlines
+Hong Kong (HKG)
+Codeshare
+AC5884ET1324VA5777
+On Schedule
