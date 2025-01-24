@@ -4,24 +4,24 @@
 出身地はどこですか	 Where are you from?<br>What country are you from？
 どこに住んでいますか？	Where do you live?
 元気ですか？	How are you?
-あなたはどうですか？	How about you?
+あなたはどうか？	How about you?
 はじめまして	Nice to meet you.
 何をしていますか？	What are you doing?
 英語を話しますか？	Do you speak English?
 なぜ英語の勉強をしていますか？	Why are you learning English?
 なぜならたくさんの人と話をしたいからです。	Because I want to talk with a lot of people.
 どのくらい英語を勉強していますか？	How long have you been learning English?
-趣味は何ですか？	What do you do in your free time?
+趣味は何ですか？	What do you do in your free time?<br>What are your hobbies?
 日本に行ったことがありますか？	Have you been to Japan?
 外出してもいいですか？	Can I go out?
 いつそれをしましたか？	When did you do it?
-旅行は好きですか？	Do you like traveling? (Are you into traveling?)
+旅行は好きですか？	Do you like traveling?<br> (Are you into traveling?)
 この言葉はどういう意味ですか？	What do you mean by this word?
 それができますか？	Can you do that?
 これはありますか？	Do you have this?
 もう一度言ってください	 Please say it again.
 これはいくらですか?	How much is this?<br>How much does it cost?
-あそこに行きたいです。	 I want to go there.
+あそこに行きたいです。	I want to go there.
 駅まではどうやって行きますか?	 How do I get the station?
 どの道ですか?	 Which way is it?
 あの方はどなたですか?	 Who is that?
@@ -30,3 +30,67 @@
 これをください。	" I&#x27;ll have this.<br>I&#x27;ll take this."
 お会計をお願いします。	 Check, Please.
 ホテルを案内していただけますか?	 Can you show me around the hotel?<br>Could you give me a tour of the hotel?
+それはいいね。<br>よろしく伝えて。	That's nice! <br>Say hello for me.
+調子はどう？	" How&#x27;s it going?"
+久しぶり	 Long time no see!
+最近どう？	How have you been up to?
+良い一日を	 Have a good one.
+何で知ってるの？	 How do you know?
+親切にしてくれてありがとう	" That&#x27;s very kind of you!"
+いらない<br>でも、ありがとう	No thanks.<br>But thank you anyway.<br><br>No, but I appreciate it.<br>（いいえ、でも感謝しています。）<br><br>No thank you, but I really appreciate your offer.<br>（いいえ、ありがとうございます。でも、その申し出には本当に感謝しています。）<br><br>Thanks for offering, but I’m good.<br>（申し出ありがとう。でも大丈夫です。）
+よろしくお願いします	 Thank you in advance!<br>(センキュー イナドバンス)
+全然気にしないで	 No worries.<br><br>No problem.<br>（問題ないよ。）<br><br>It's okay.<br>（大丈夫だよ。）<br><br>Don't worry about it.<br>（そのことは心配しないで。）
+どうしたの？	" What&#x27;s going on?"
+私の言うことは正しいですか?	 Did I get you right?
+気にすることないよ	" Don&#x27;t take it to heart."
+最後の言葉聞こえなかった	" I didn&#x27;t catch the last word."
+ごめん、聞いてなかった	 Sorry. I wasn't listening.
+関係ないよ	" It doesn&#x27;t matter."
+おー、それで納得だ	 Oh! That. That explains it.
+そういうこともあるよね	 Things happen.<br><br><br>It happens.<br>（そういうことはあるよ。）<br><br>Stuff happens.<br>（いろいろ起こるもんだよ。）<br><br>That's life.<br>（それが人生ってものさ。）<br><br>Things like this happen.<br>（こういうことは起こるものだ。）
+邪魔してごめん(失礼します)	 Sorry to bother you.
+ちょっと待って	 Hold on a second.<br>I'll be with you in a minute.
+何の話をしていましたっけ？	What were we talking about?<br><br>Where did we leave off?<br>（どこで話が途切れましたっけ？）<br><br>What was I saying?<br>（何を言おうとしてたんだっけ？）
+ごめん、聞き取れなかった	" I&#x27;m sorry. I didn&#x27;t catch that."
+羨ましいな	I'm jealous<br>Lucky you!
+昨夜、めっちゃパ二クった	 I freaked out last night.
+良かったね	 Good for you!
+冗談でしょ。	" You&#x27;ve got to be kidding me!<br>Are you kidding me?<br>"
+元気出して<br>大丈夫だよ	" Cheer up! <br>It&#x27;s OK."
+また話そうね	" I&#x27;ll talk to you later!"
+それが世界の終わりってわけじゃないんだから、大丈夫だよ。	"Come on! <br>It&#x27;s not the end of the world."
+それは素晴らしい	"That&#x27;s lit.<br>That's great."
+出来たね<br>君なら出来ると知ってたよ	There you go!<br>I knew you could do it
+疲れてる？<br>全然!	Are you tired?<br>Not a bit!
+いいね!	 That's sounds good!
+また連絡するわ	" I&#x27;ll text you!"
+価値ないね	" It&#x27;s not worth it!"
+君は最高だ！	 You rock!
+本当にごめん	 I apologize.
+本当にありがとう	 I really appreciate it.
+話せてよかった	 It was nice catching up.
+手伝ってくれない？	Could you help me out?<br><br>Can you help me?<br>（助けてくれる？）<br><br>Would you mind helping me?<br>（手伝っていただけますか？）<br><br>Can you give me a hand?<br>（手を貸してくれる？）<br><br>I need some help. Could you assist me?<br>（助けが必要です。手伝ってもらえますか？）
+ちょっと見て！	Check this out!<br><br>Check this out: 目の前の「これ」に焦点を当てる（話し手が直接示している場合）。<br><br>Check it out: 話題の「それ」に焦点を当てる（直接示されない場合でもOK）。
+着いたら連絡するね	" I&#x27;ll let you know when I&#x27;m there."
+どういう意味？	 What does that mean?
+それは残念でしたね	" I&#x27;m sorry to hear that."
+これ借りても大丈夫ですか？	 Do you mind if I borrow this?
+そろそろ行かなきゃ。	" I&#x27;d better get going."
+華の金曜日だ	" Thank god it&#x27;s Friday."
+元気でね!	 Take care!
+私の言っている意味が分かる？	 Do you know what I mean?
+雨が降る気がする	" I have a feeling that it&#x27;s going to rain."
+それは理にかなっている	 That makes sense.
+ああ、それは面白いね。	Oh! That's interesting.<br>Oh!&nbsp;That's a good one.
+なんて素晴らしい。<br>本当に嬉しいです。	How wonderful! <br>I'm very happy for you.
+待って見守るしかないですね。	I guess we'll have to wait and see.
+幸運を祈っています	I wish you the best of luck.<br>Fingers crossed!
+頑張ってね！	<div>Good luck! 短くカジュアルな表現。</div><div>I’m rooting for you! 応援の気持ちを強調。</div><div>Break a leg! 特に舞台やパフォーマンス前に使う表現。</div><div>All the best! 少しフォーマルな表現</div>
+これまでのところどうですか？	How do you like it so far?
+夫はお皿を洗います (発音)	"My husband washes the dishes.<br><br>watches /ˈwɑːtʃɪz/ ワッチズ ""watch"" + ""iz"" の音<br>washes /ˈwɑːʃɪz/ ウォッシズ ""wash"" + ""iz"" の音<br>"
+私たちは別々の会計がいいです (発音)	We'd prefer separate checks.<br><br>weed とほぼ同じ
+マッサージとメッセージ	massage or message
+緊急ですか？	Is it urgent?
+それは必要ありません	No need for that.
+私はそれに取り組んでいます。	I'm working in on it.
+それはすごいですね。	That's impressive.
