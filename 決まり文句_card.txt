@@ -4,7 +4,7 @@
 出身地はどこですか	 Where are you from?<br>What country are you from？
 どこに住んでいますか？	Where do you live?
 元気ですか？	How are you?
-あなたはどうか？	How about you?
+あなたはどうですか？	How about you?
 はじめまして	Nice to meet you.
 何をしていますか？	What are you doing?
 英語を話しますか？	Do you speak English?
@@ -58,7 +58,7 @@
 冗談でしょ。	" You&#x27;ve got to be kidding me!<br>Are you kidding me?<br>"
 元気出して<br>大丈夫だよ	" Cheer up! <br>It&#x27;s OK."
 また話そうね	" I&#x27;ll talk to you later!"
-それが世界の終わりってわけじゃないんだから、大丈夫だよ。	"Come on! <br>It&#x27;s not the end of the world."
+大丈夫だよ<br>世界の終わりってわけじゃないんだから。	"Come on! <br>It&#x27;s not the end of the world."
 それは素晴らしい	"That&#x27;s lit.<br>That's great."
 出来たね<br>君なら出来ると知ってたよ	There you go!<br>I knew you could do it
 疲れてる？<br>全然!	Are you tired?<br>Not a bit!
@@ -68,20 +68,20 @@
 君は最高だ！	 You rock!
 本当にごめん	 I apologize.
 本当にありがとう	 I really appreciate it.
-話せてよかった	 It was nice catching up.
+久しぶりに話せてよかったです。	 It was nice catching up.
 手伝ってくれない？	Could you help me out?<br><br>Can you help me?<br>（助けてくれる？）<br><br>Would you mind helping me?<br>（手伝っていただけますか？）<br><br>Can you give me a hand?<br>（手を貸してくれる？）<br><br>I need some help. Could you assist me?<br>（助けが必要です。手伝ってもらえますか？）
 ちょっと見て！	Check this out!<br><br>Check this out: 目の前の「これ」に焦点を当てる（話し手が直接示している場合）。<br><br>Check it out: 話題の「それ」に焦点を当てる（直接示されない場合でもOK）。
 着いたら連絡するね	" I&#x27;ll let you know when I&#x27;m there."
-どういう意味？	 What does that mean?
+それはどういう意味？	 What does that mean?
 それは残念でしたね	" I&#x27;m sorry to hear that."
 これ借りても大丈夫ですか？	 Do you mind if I borrow this?
 そろそろ行かなきゃ。	" I&#x27;d better get going."
 華の金曜日だ	" Thank god it&#x27;s Friday."
 元気でね!	 Take care!
 私の言っている意味が分かる？	 Do you know what I mean?
-雨が降る気がする	" I have a feeling that it&#x27;s going to rain."
-それは理にかなっている	 That makes sense.
-ああ、それは面白いね。	Oh! That's interesting.<br>Oh!&nbsp;That's a good one.
+雨が降る気がする<br>(雨が降りそうな予感がする)	" I have a feeling that it&#x27;s going to rain."
+なるほど。<br>(それは理にかなっている)<br>(それは筋が通っている)	 That makes sense.
+おお、それは面白いね。	Oh! That's interesting.<br>Oh!&nbsp;That's a good one.
 なんて素晴らしい。<br>本当に嬉しいです。	How wonderful! <br>I'm very happy for you.
 待って見守るしかないですね。	I guess we'll have to wait and see.
 幸運を祈っています	I wish you the best of luck.<br>Fingers crossed!
@@ -91,6 +91,6 @@
 私たちは別々の会計がいいです (発音)	We'd prefer separate checks.<br><br>weed とほぼ同じ
 マッサージとメッセージ	massage or message
 緊急ですか？	Is it urgent?
-それは必要ありません	No need for that.
-私はそれに取り組んでいます。	I'm working in on it.
-それはすごいですね。	That's impressive.
+それは必要ありません	No need for that.<br>That's not necessary
+私はそれに取り組んでいます。	I'm working on it.
+それはすごいですね。(見事)	That's impressive.
